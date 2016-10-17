@@ -1,0 +1,6 @@
+framework module Pods_ChatNotification {
+  umbrella header "Pods-ChatNotification-umbrella.h"
+
+  export *
+  module * { export * }
+}
